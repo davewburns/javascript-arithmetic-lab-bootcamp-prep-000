@@ -15,3 +15,7 @@ function add5() {
 function divideBy3() {
   number /= 3
 }
+
+function add(a, b) {
+  return a+b;
+}
